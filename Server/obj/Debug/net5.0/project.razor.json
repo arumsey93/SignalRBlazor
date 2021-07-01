@@ -3927,101 +3927,35 @@
         }
       },
       {
-        "HashCode": 1897010587,
+        "HashCode": -633938554,
         "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.App",
+        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.Index",
         "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.App"
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.Index"
         }
       },
       {
-        "HashCode": 1458615993,
+        "HashCode": 52330156,
         "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.App",
+        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.Index",
         "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWebAssemblySignalRApp.Client.App"
+            "TagName": "BlazorWebAssemblySignalRApp.Client.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -636008277,
-        "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.FetchData",
-        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 1950689813,
-        "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.FetchData",
-        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWebAssemblySignalRApp.Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1206249818,
-        "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.Counter",
-        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -1897406014,
-        "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.Counter",
-        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWebAssemblySignalRApp.Client.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.Counter",
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -4059,35 +3993,101 @@
         }
       },
       {
-        "HashCode": -633938554,
+        "HashCode": 1206249818,
         "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.Index",
+        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.Counter",
         "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.Index"
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.Counter"
         }
       },
       {
-        "HashCode": 52330156,
+        "HashCode": -1897406014,
         "Kind": "Components.Component",
-        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.Index",
+        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.Counter",
         "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWebAssemblySignalRApp.Client.Pages.Index"
+            "TagName": "BlazorWebAssemblySignalRApp.Client.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.Index",
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -636008277,
+        "Kind": "Components.Component",
+        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.FetchData",
+        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 1950689813,
+        "Kind": "Components.Component",
+        "Name": "BlazorWebAssemblySignalRApp.Client.Pages.FetchData",
+        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWebAssemblySignalRApp.Client.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1897010587,
+        "Kind": "Components.Component",
+        "Name": "BlazorWebAssemblySignalRApp.Client.App",
+        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.App"
+        }
+      },
+      {
+        "HashCode": 1458615993,
+        "Kind": "Components.Component",
+        "Name": "BlazorWebAssemblySignalRApp.Client.App",
+        "AssemblyName": "BlazorWebAssemblySignalRApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWebAssemblySignalRApp.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWebAssemblySignalRApp.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

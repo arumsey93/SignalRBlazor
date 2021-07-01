@@ -55,6 +55,10 @@
               "target": "Package",
               "version": "[5.0.7, )"
             },
+            "MudBlazor": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
             "System.Net.Http.Json": {
               "target": "Package",
               "version": "[5.0.0, )"

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nLZfTL6juB5d6xJciydOyiDEd2oIrM/QxpPhMdeMtU2YbMrf7K+5OQ5ot4PhJVDAkTx54RhXohttaWxXODkygg==",
+  "dgSpecHash": "DpB+p1PkNCtT8c0/msRnhemCKDdw0fuGSZs5EIoUznug9PuS721T81zS/n71wCEuQBhUmIoY2JkPlH0heirdTQ==",
   "success": true,
   "projectFilePath": "/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Client/BlazorWebAssemblySignalRApp.Client.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "/Users/alexrumsey/.nuget/packages/microsoft.extensions.primitives/5.0.1/microsoft.extensions.primitives.5.0.1.nupkg.sha512",
     "/Users/alexrumsey/.nuget/packages/microsoft.jsinterop/5.0.7/microsoft.jsinterop.5.0.7.nupkg.sha512",
     "/Users/alexrumsey/.nuget/packages/microsoft.jsinterop.webassembly/5.0.7/microsoft.jsinterop.webassembly.5.0.7.nupkg.sha512",
+    "/Users/alexrumsey/.nuget/packages/mudblazor/5.0.15/mudblazor.5.0.15.nupkg.sha512",
     "/Users/alexrumsey/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512",
     "/Users/alexrumsey/.nuget/packages/system.net.http.json/5.0.0/system.net.http.json.5.0.0.nupkg.sha512",
     "/Users/alexrumsey/.nuget/packages/system.threading.channels/5.0.0/system.threading.channels.5.0.0.nupkg.sha512",
